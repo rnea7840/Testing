@@ -1,0 +1,10 @@
+{
+  "name": "redis",
+  "version": "6.2.3",
+  "dependencies": {
+    "lua": "5.3.5",
+    "hiredis": "0.14.0",
+    "linenoise": "1.0.0",
+    "jemalloc": "5.1.0"
+  }
+}
